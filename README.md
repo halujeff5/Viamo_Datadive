@@ -1,4 +1,4 @@
-# Viamo_Datadive (Tableau and Clustering notebook)
+# Viamo_Datadive (Tableau)
 
 Viamo is a telecom company that serves regions with low internet access in Africa, particularly Mali, Nigeria, and Uganda. Viamo is a platform to disperse crucial communication, news, weather forecasts, farming knowledge, financial news to regions in Africa that have no internet access. User behavior, demographics and content needs to be addressed to extend the reach and utility of the platform. 
 
